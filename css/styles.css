@@ -1,0 +1,143 @@
+body {
+  color: #40514e;
+  margin: 0;
+  text-align: center;
+  font-family: "Merriweather", serif;
+}
+
+h1 {
+  color: #66bfbf;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: "Sacramento", cursive;
+}
+
+h2 {
+  color: #66bfbf;
+  font-size: 2.5rem;
+  font-weight: normal;
+
+  font-family: "Montserrat", sans-serif;
+}
+
+h3 {
+  color: #11999e;
+  font-family: "Montserrat", sans-serif;
+}
+
+hr {
+  border: none;
+  border-top-style: dotted;
+  color: #eaf6f6;
+  border-width: 6px;
+  width: 5%;
+}
+
+p {
+  line-height: 2;
+}
+.top-container {
+  background-color: #eaf6f6;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  background-color: white;
+  position: relative;
+  margin: 100px 0 50px 0;
+}
+
+.bottom-container {
+  background-color: #66bfbf;
+  position: relative;
+  padding: 20px;
+}
+
+.btn {
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 19px;
+  background: #66bfbf;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #a8d8d4;
+  text-decoration: none;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.skill-row {
+  margin: 100px auto 100px auto;
+  width: 50%;
+  text-align: left;
+  line-height: 2;
+  margin-top: 50px;
+  margin-bottom: 70px;
+}
+
+.comp {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.ux {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.profile-image {
+  width: 13%;
+  margin-top: 30px;
+}
+
+.copy-right {
+  color: #eaf6f6;
+  font-family: serif;
+  font-size: 15px;
+  margin-top: 30px;
+}
+
+.bottom-container a {
+  text-decoration: none;
+  color: #11999e;
+  width: 100px;
+  display: inline-block;
+  font-family: "Montserrat", sans-serif;
+}
+
+.bottom-container a:hover {
+  color: #eaf6f6;
+}
+
+.profile {
+  margin-top: 10px;
+  margin-bottom: 50px;
+}
+.contact-me {
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
